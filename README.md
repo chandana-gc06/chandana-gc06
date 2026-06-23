@@ -28,14 +28,14 @@
 ### 🏨 Hotel Management System
 
 * Developed a hotel booking and management application
-* Features room reservation, customer management, and billing
-* Technologies: Java, MySQL
+* Features room reservation and customer management
+* Technologies: Java, MySQL, JDBC
 
 ### 🚆 Railway Management System
 
 * Developed a railway reservation and management system
 * Features ticket booking, passenger details, and train scheduling
-* Technologies: Java, MySQL
+* Technologies: HTML, CSS, JavaScript, MySQL, PHP
 
 ---
 
