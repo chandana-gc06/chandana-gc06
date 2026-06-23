@@ -9,7 +9,7 @@
 - 🌱 Currently learning **Java Full Stack Development**
 - 💻 Interested in **Web Development, Machine Learning, and Data Structures**
 - 🚀 Working on **Sleep Quality Prediction Using Smartwatch Data**
-- 📧 Reach me at: **your-email@gmail.com**
+- 📧 Reach me at: **chandanagc8792@gmail.com**
 - ⚡ Fun Fact: I love solving coding challenges and building real-world projects
 
 ---
