@@ -8,7 +8,7 @@
 
 * 🎓 BE Student in Computer Science & Engineering
 * 🌱 Currently learning **Java Full Stack Development**
-* 💻 Interested in **Web Development, Java Development, and Data Structures**
+* 💻 Interested in **Web Development and Java Development**
 * 🚀 Passionate about building real-world software applications
 * 📧 Reach me at: **[chandanagc8792@gmail.com](mailto:chandanagc8792@gmail.com)**
 * ⚡ Fun Fact: I enjoy solving coding challenges and learning new technologies
